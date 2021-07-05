@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 40px;
@@ -25,4 +26,9 @@ h1{
 }
 .the-diet{
     display: flex;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
 }
