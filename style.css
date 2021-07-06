@@ -9,6 +9,9 @@ h1{
 .green-color{
     color: green;
 }
+.orange-color{
+    color: orange;
+}
 .box1{
     width: 50%;
     padding: 10%;
@@ -26,10 +29,6 @@ h1{
 }
 .the-diet{
     display: flex;
-}
-.top-banner{
-    background-image: url(images/shapes);
-    width: 100%;
 }
 .female-pic-size img {
     width: 98%;
@@ -52,7 +51,6 @@ h1{
     position: absolute;
     top: 160%;
     right: 19%;
-
 }
 .recipies{
     width: 80%;
@@ -61,16 +59,12 @@ h1{
 .text-recipies-middle{
     text-align: center;
 }
-#three-items{
+.box2{
+    width: 25%;
+}
+.try{
     display: flex;
 }
-.same{
-    box-shadow: 5px 10px 8px 10px black;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 5%;
-    border-radius: 5%;
-}
-.resize{
-    width: 30%;
+.box2 img{
+    width: 90%;
 }
