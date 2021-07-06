@@ -71,7 +71,7 @@ h1{
     margin-bottom: 50px;
 }
 .shadow{
-    box-shadow: 10px 10px 40px black;
+    box-shadow: 10px 10px 30px black;
     margin-right:2%;
     margin-left: 6%;
     padding: 2.5%;
@@ -81,7 +81,7 @@ h1{
     display: flex;
 }
 .shadow2{
-    box-shadow: 10px 10px 40px black;
+    box-shadow: 10px 10px 30px black;
     margin-right:2%;
     margin-left: 6%;
     padding: 2.5%;
