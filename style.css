@@ -52,4 +52,25 @@ h1{
     position: absolute;
     top: 160%;
     right: 19%;
+
+}
+.recipies{
+    width: 80%;
+    padding: 10%;
+}
+.text-recipies-middle{
+    text-align: center;
+}
+#three-items{
+    display: flex;
+}
+.same{
+    box-shadow: 5px 10px 8px 10px black;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    border-radius: 5%;
+}
+.resize{
+    width: 30%;
 }
