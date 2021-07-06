@@ -62,19 +62,30 @@ h1{
 .box2{
     width: 25%;
 }
-.container2{
-    display: flex;
-    margin-bottom: 50px;
-}
 .box2 img{
     width: 100%;
     border-radius: 10px;
 }
+.container2{
+    display: flex;
+    margin-bottom: 50px;
+}
 .shadow{
     box-shadow: 10px 10px 40px black;
     margin-right:2%;
-    margin-left: 2%;
+    margin-left: 6%;
     padding: 2.5%;
-    border-radius: 10px;
-    
+    border-radius: 10px;    
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 5%;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.footer-text-color{
+    color:green;
 }
